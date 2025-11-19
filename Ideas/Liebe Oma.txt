@@ -1,0 +1,3 @@
+Liebe Oma, unsere Lehrerin hat uns die Aufgabe gegeben, ein Videospiel über "Katze", "Automatisierung", "Adventskranz" zu entwickeln.
+In dem Spiel wird man Fabriken bauen, die Katzen in Geschenke einpacken und dann verschicken.
+Mit den verkauften Katzen macht man Umsatz und so kann man seine Operation vergrößern.
