@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Factory
   m_EditorClassIdentifier: 
   displayName: Factory
-  icon: {fileID: 21300000, guid: 426abc799c3e7924b8f18571cdf1bd04, type: 3}
+  icon: {fileID: 21300000, guid: 6c9b3662147f2cf4bb212f3a6cf02281, type: 3}
   prefab: {fileID: 2249187911398869670, guid: 253e47c2f18021d42bfa7496c2fd5247, type: 3}
   size: {x: 2, y: 2}
   cost: 200
